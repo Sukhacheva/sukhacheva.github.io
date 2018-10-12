@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/Sukhacheva/sukhacheva.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Задания по веп-проектированию
+
+https://sukhacheva.github.io/11.10.18/
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -11,9 +15,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-## Задания по веп-проектированию
 
-https://sukhacheva.github.io/11.10.18/
 
 # Header 1
 ## Header 2
