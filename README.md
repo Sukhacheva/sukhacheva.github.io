@@ -32,3 +32,11 @@
 
 <a href = "https://github.com/Sukhacheva/18-10/tree/master">Лабораторная работа 18 октября 2018 года</a>
 
+<a href = "https://repl.it/@artemovnavaleri/81118">8.11.18</a>
+
+<a href = "https://repl.it/@artemovnavaleri/11118">1.11.18</a>
+
+<a href = "https://repl.it/@artemovnavaleri/dz2"> дз 2</a>
+
+<a href = "https://repl.it/@artemovnavaleri/Faktorial-prinimaiet-tsieloie-chislo">Факториал принимает целое число</a>
+
