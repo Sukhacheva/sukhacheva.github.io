@@ -17,6 +17,8 @@
 
 <a href = "https://kodaktor.ru/08112018_8c17f">Для заданий по промисам и async/await</a>
 
+<a href = "https://kodaktor.ru/async_34e92">Отчёт по всплыванию</a>
+
 <a href = ""></a>
 
 ## Задания по програмированию
@@ -40,6 +42,5 @@
 
 <a href = "https://repl.it/@artemovnavaleri/Faktorial-prinimaiet-tsieloie-chislo">Факториал принимает целое число</a>
 
-<a href = "https://kodaktor.ru/async_34e92">Отчёт по всплыванию</a>
 
 
