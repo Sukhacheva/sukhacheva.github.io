@@ -40,3 +40,6 @@
 
 <a href = "https://repl.it/@artemovnavaleri/Faktorial-prinimaiet-tsieloie-chislo">Факториал принимает целое число</a>
 
+<a href = "https://kodaktor.ru/async_34e92">Отчёт по всплыванию</a>
+
+
