@@ -25,6 +25,9 @@
 
 <a href = "https://pp.userapi.com/c844618/v844618884/1abb2c/EqmlFQ8XDys.jpg">09.02</a>
 
+<a href = "https://sukhacheva.github.io/moment_bundle/">19.02</a>
+
+
 ## Обогащенные интерфейсы веб-приложений 
 
 <a href = "https://kodaktor.ru/?!=click_ee868">Интерфейс</a>
