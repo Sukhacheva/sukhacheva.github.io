@@ -37,7 +37,7 @@
 
 ## Задания по програмированию
 
-# 3 семестр
+### 3 семестр
 
 
 <a href = "https://github.com/Sukhacheva/PROG/blob/master/README.md#Сухачева-Валерия">Для репозиториев (самостоятельная работа 1)</a>
@@ -58,7 +58,7 @@
 
 <a href = "https://repl.it/@artemovnavaleri/Faktorial-prinimaiet-tsieloie-chislo">Факториал принимает целое число</a>
 
-# 4 семестр
+### 4 семестр
 
 
 
