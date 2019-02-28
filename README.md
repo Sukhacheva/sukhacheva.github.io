@@ -34,6 +34,7 @@
 
 <a href = "https://kodaktor.ru/?!=custom_b7484">210219</a>
 
+<a href = "https://kodaktor.ru/?!=custom_d312b"> Корзина покупателя</a>
 
 ## Задания по програмированию
 
