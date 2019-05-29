@@ -29,6 +29,7 @@
 
 <a href = "https://pp.userapi.com/c855120/v855120875/3fe4a/c-ibqoNzxbU.jpg ">14.05</a>
 
+<a href = "https://pp.userapi.com/c848636/v848636784/19d1bc/5KZj8-x35gU.jpg">28.05</a>
 
 ## Обогащенные интерфейсы веб-приложений 
 
