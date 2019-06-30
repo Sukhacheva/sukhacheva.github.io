@@ -21,8 +21,6 @@
 
 <a href = ""></a>
 
-## Компьютерный практикум
-
 <a href = "https://pp.userapi.com/c844618/v844618884/1abb2c/EqmlFQ8XDys.jpg">09.02</a>
 
 <a href = "https://sukhacheva.github.io/moment_bundle/">bndl_001</a>
@@ -30,8 +28,6 @@
 <a href = "https://pp.userapi.com/c855120/v855120875/3fe4a/c-ibqoNzxbU.jpg ">14.05</a>
 
 <a href = "https://pp.userapi.com/c848636/v848636784/19d1bc/5KZj8-x35gU.jpg">28.05</a>
-
-## Обогащенные интерфейсы веб-приложений 
 
 <a href = "https://kodaktor.ru/?!=click_ee868">Интерфейс</a>
 
@@ -48,7 +44,6 @@
 
 ## Задания по програмированию
 
-### 3 семестр
 
 
 <a href = "https://github.com/Sukhacheva/PROG/blob/master/README.md#Сухачева-Валерия">Для репозиториев (самостоятельная работа 1)</a>
@@ -69,7 +64,6 @@
 
 <a href = "https://repl.it/@artemovnavaleri/Faktorial-prinimaiet-tsieloie-chislo">Факториал принимает целое число</a>
 
-### 4 семестр
 
 
 
