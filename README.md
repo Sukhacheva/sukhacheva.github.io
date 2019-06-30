@@ -25,7 +25,7 @@
 
 <a href = "https://pp.userapi.com/c844618/v844618884/1abb2c/EqmlFQ8XDys.jpg">09.02</a>
 
-<a href = "https://sukhacheva.github.io/moment_bundle/">19.02</a>
+<a href = "https://sukhacheva.github.io/moment_bundle/">bndl_001</a>
 
 <a href = "https://pp.userapi.com/c855120/v855120875/3fe4a/c-ibqoNzxbU.jpg ">14.05</a>
 
@@ -35,9 +35,11 @@
 
 <a href = "https://kodaktor.ru/?!=click_ee868">Интерфейс</a>
 
-<a href = "https://kodaktor.ru/?!=custom_b7484">210219</a>
+<a href = "https://kodaktor.ru/?!=custom_b7484">Создатель событий</a>
 
 <a href = "https://kodaktor.ru/?!=custom_d312b"> Корзина покупателя</a>
+
+<a href = "https://kodaktor.ru/?!=7d69fc6">mixer</a>
 
 <a href = "https://sukhacheva.github.io/youtube/">youtube</a>
 
