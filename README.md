@@ -44,26 +44,48 @@
 
 ## Задания по програмированию
 
+### 3 семестр
+
+<a href = "https://github.com/python-basic/sem3-t1-Sukhacheva">Тема 1. Введение в Python и основы синтаксиса</a>
+
+<a href = "https://github.com/python-basic/sem3-t2-Sukhacheva">Тема 2. Понятие функции, объявление функций</a>
+
+<a href = "https://github.com/python-basic/sem3-t3-Sukhacheva">Тема 3. Строки. Байты. Файлы</a>
+
+<a href = "https://github.com/python-basic/sem3-t4-Sukhacheva">Тема 4. Тестирование</a>
 
 
-<a href = "https://github.com/Sukhacheva/PROG/blob/master/README.md#Сухачева-Валерия">Для репозиториев (самостоятельная работа 1)</a>
+### 4 семестр
 
-<a href = "https://repl.it/@artemovnavaleri/GloriousSelfassuredPiracy">Лабораторная работа 2</a>
+<a href = "https://github.com/sem4-ivt18/t-1-exceptions-Sukhacheva">Тема 1. Обработка исключений</a>
 
-<a href = "https://repl.it/@artemovnavaleri/Samostoiatielnaia-rabota-2">Самостоятельная работа № 2</a>
+<a href = "https://github.com/python-basic/sem4-t2-Sukhacheva">Тема 2. Декораторы</a>
 
-<a href = "https://repl.it/@artemovnavaleri/20-09-18">Лабораторная работа 3</a>
+<a href = "https://github.com/python-basic/sem4-t3-Sukhacheva">Тема 3. Введение в ООП</a>
 
-<a href = "https://github.com/Sukhacheva/18-10/tree/master">Лабораторная работа 18 октября 2018 года</a>
+<a href = "https://github.com/python-basic/sem4-t4-Sukhacheva">Тема 4. Встроенные коллекции</a>
 
-<a href = "https://repl.it/@artemovnavaleri/81118">8.11.18</a>
+### 5 семестр
 
-<a href = "https://repl.it/@artemovnavaleri/11118">1.11.18</a>
+<a href = "https://github.com/python-advance/sem5-t1-Sukhacheva">Тема 1. Модули. Пакеты</a>
 
-<a href = "https://repl.it/@artemovnavaleri/dz2"> дз 2</a>
+<a href = "https://github.com/python-advance/sem5-t2-Sukhacheva">Тема 2. Итераторы</a>
 
-<a href = "https://repl.it/@artemovnavaleri/Faktorial-prinimaiet-tsieloie-chislo">Факториал принимает целое число</a>
+<a href = "https://github.com/python-advance/sem5-oop-Sukhacheva">Тема 3. Введение в ООА, шаблоны проектирования</a>
 
+<a href = "https://github.com/python-advance/python-advance-sem5-t3-Sukhacheva">Тема 3. Введение в ООА, шаблоны проектирования</a>
+
+<a href = "https://github.com/python-advance/sem5-t4-Sukhacheva">Тема 4. Построение графиков на Python</a>
+
+### 6 семестр
+
+<a href = "https://github.com/python-advance/t1-datascienceintro-Sukhacheva">Тема 1. Пакеты для научных вычислений (Scikit-learn, Pandas, Numpy)</a>
+
+<a href = "https://github.com/python-advance/t2-generators-Sukhacheva">Тема 2. Генераторы в Python. Корутины, сопрограммы</a>
+
+<a href = "https://github.com/python-advance/t3-gui-Sukhacheva">Тема 3. Разработка графических интерфейсов (GUI)</a>
+
+<a href = "https://github.com/python-advance/t4-env-Sukhacheva">Тема 4. Виртуальное окружение (virtualenv, pipenv, pyenv)</a>
 
 
 ## Задания по упп
