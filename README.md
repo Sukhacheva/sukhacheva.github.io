@@ -42,6 +42,8 @@
 <a href = "https://sukhacheva.github.io/MaterialUI/">MaterialUI</a>
 
 
+
+
 ## Задания по програмированию
 
 ### 3 семестр
@@ -86,6 +88,9 @@
 <a href = "https://github.com/python-advance/t3-gui-Sukhacheva">Тема 3. Разработка графических интерфейсов (GUI)</a>
 
 <a href = "https://github.com/python-advance/t4-env-Sukhacheva">Тема 4. Виртуальное окружение (virtualenv, pipenv, pyenv)</a>
+
+
+
 
 
 ## Задания по упп
