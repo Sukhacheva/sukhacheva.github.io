@@ -91,10 +91,6 @@
 
 <a href = "https://github.com/python-advance/t4-env-Sukhacheva">Тема 4. Виртуальное окружение (virtualenv, pipenv, pyenv)</a>
 
-Дополнительное задание:
-
-<a href = "https://repl.it/@artemovnavaleri/dop">Дополнительное задание</a>
-
 
 
 
