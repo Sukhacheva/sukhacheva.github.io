@@ -48,7 +48,7 @@
 
 ## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/blob/master/prog.md">Программирование</a>
 
-## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/blob/master/upp.md">Управление программными проектами</a>
+## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/blob/master/5sem/upp.md">Управление программными проектами</a>
 
 
 
