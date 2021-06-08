@@ -1,5 +1,38 @@
 # Портфолио
 
+# 1 курс
+
+## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/tree/master/1sem/inf">Информатика</a>
+
+## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/tree/master/1sem/itf">Информационные технологии в физике</a>
+
+## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/tree/master/1sem/itm">Информационные технологии в математике</a>
+
+## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/tree/master/1sem/prog">Программирование</a>
+
+# 2 курс
+
+## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/tree/master/2kurs/ad">Анализ данных</a>
+
+## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/tree/master/2kurs/vm">Вычислительная математика</a>
+
+## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/tree/master/2kurs/grap">Основы компьютерной графики</a>
+
+## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/tree/master/2kurs/bi">Основы бизнес-информатики</a>
+
+## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/tree/master/2kurs/bd">Базы данных</a>
+
+## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/tree/master/2kurs/mod">Технологии компьютерного моделирования</a>
+
+## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/tree/master/2kurs/ka">Основы компьютерной алгебры</a>
+
+## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/blob/master/prog.md">Программирование</a>
+
+# 3 курс
+
+## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/blob/master/3kurs/upp.md">Управление программными проектами</a>
+
+## <a href = ""></a>
 
 ## Задания по веб-проектированию
 
@@ -48,7 +81,7 @@
 
 ## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/blob/master/prog.md">Программирование</a>
 
-## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/blob/master/5sem/upp.md">Управление программными проектами</a>
+
 
 
 
