@@ -48,13 +48,7 @@
 
 ## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/blob/master/prog.md">Программирование</a>
 
-
-
-
-
-
-## Задания по упп
-
+## Задания по упп <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/blob/master/upp.md"></a>
 
 
 
