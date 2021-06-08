@@ -54,6 +54,8 @@
 
 ## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/tree/master/4kurs/soz">Социальные и профессиональные вопросы информатики и ИТ</a>
 
+
+
 # <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/tree/master/sert">Сертификаты</a>
 
 
