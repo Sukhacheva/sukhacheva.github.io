@@ -56,6 +56,8 @@
 
 # Прочее
 
+## <a href = "https://www1.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2021612179&TypeFile=html">Документ о регистрации программы для ЭВМ</a>
+
 ## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/tree/master/sert">Сертификаты</a>
 
 ## <a href = "https://www.elibrary.ru/author_items.asp?authorid=1107239&pubrole=100&show_refs=1&show_option=0">Публикации на e-library</a>
