@@ -2,7 +2,7 @@
 
 # 1 курс
 
-<a href = "https://github.com/Sukhacheva/sukhacheva.github.io/tree/master/1sem/inf">Информатика</a>
+## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/tree/master/1sem/inf">Информатика</a>
 
 ## <a href = "https://github.com/Sukhacheva/sukhacheva.github.io/tree/master/1sem/itf">Информационные технологии в физике</a>
 
